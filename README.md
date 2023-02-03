@@ -4,7 +4,7 @@ NameCompressor is a tool to shorten overlong method names with abbreviations
 
 **How to obtain NameCompressor?**
 
-The replication package, including NameCompressor itself, can be downloaded from https://github.com/ShortenMethodName/shortenMethodName
+The replication package, including NameCompressor itself, can be downloaded from https://github.com/ShortenMethodName/NameCompressor
 
 **What does the replication package contain?**
 
